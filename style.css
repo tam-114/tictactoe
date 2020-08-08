@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	/*background-color: #00001a;/*
+}
+
+h1 {
+	/*text-align: center;*/
+	padding: 50px;
+	margin: auto;
+}
+
+table {
+	padding: 100px;
+	margin: auto;
+}
+
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+.middle {
+	border-left: 3px solid blue;
+	border-right: 3px solid blue;
+}
+
+.top-bottom {
+	border-top: 3px solid blue;
+	border-bottom: 3px solid blue;
+}
+
